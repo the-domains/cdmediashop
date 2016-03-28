@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CD Intelligence Media]]></title>
-        <description><![CDATA[CD Intelligence Media]]></description>
-        <link>https://thegrid.ai/cdintelligencemedia/</link>
+        <title><![CDATA[CD Intelligence Media << enjoy the ride >>]]></title>
+        <description><![CDATA[CD Intelligence Media << enjoy the ride >>]]></description>
+        <link>https://thegrid.ai/cdmediashop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:34:59 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/cdintelligencemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 22:41:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cdmediashop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf67e1a-25a1-40d5-90a9-24476c60b4de.gif">]]></description>
-            <link>https://thegrid.ai/cdintelligencemedia/monitoramento/index.html</link>
+            <link>https://thegrid.ai/cdmediashop/monitoramento/index.html</link>
             <guid isPermaLink="false">159141bc-eb80-436c-88a3-f7d87a122884</guid>
             <pubDate>Mon, 28 Mar 2016 22:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WELCOME]]></title>
             <description><![CDATA[<article><h1>WELCOME</h1><p>CD INTELLIGENCE MEDIA INC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3383680263129525a337039e83282a545315605a.gif"></article>]]></description>
-            <link>https://thegrid.ai/cdintelligencemedia/welcome/index.html</link>
+            <link>https://thegrid.ai/cdmediashop/welcome/index.html</link>
             <guid isPermaLink="false">c5c11cdb-2280-4f59-9f23-8018a8663ec9</guid>
             <pubDate>Mon, 28 Mar 2016 22:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c5bd6d3-d94c-41a9-ab51-2de8cf3100a6.png">]]></description>
+            <link>https://thegrid.ai/cdmediashop/digital-media-strategist/index.html</link>
+            <guid isPermaLink="false">d5341029-f84c-4715-963a-38346ac8c2ed</guid>
+            <pubDate>Mon, 28 Mar 2016 22:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
