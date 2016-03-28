@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[CD Intelligence Media << enjoy the ride >>]]></title>
         <description><![CDATA[CD Intelligence Media << enjoy the ride >>]]></description>
-        <link>https://thegrid.ai/cdmediashop/</link>
+        <link>https://thegrid.ai/cdintelligencemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:48:35 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/cdmediashop/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 22:57:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cdintelligencemedia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf67e1a-25a1-40d5-90a9-24476c60b4de.gif">]]></description>
-            <link>https://thegrid.ai/cdmediashop/monitoramento/index.html</link>
+            <link>https://thegrid.ai/cdintelligencemedia/monitoramento/index.html</link>
             <guid isPermaLink="false">159141bc-eb80-436c-88a3-f7d87a122884</guid>
             <pubDate>Mon, 28 Mar 2016 22:34:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[network graphs]]></title>
+            <description><![CDATA[<article><h1>network graphs</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9acad1e8f48615c69254cc7f032c357/noop.gif?input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1d56fd39-8880-462c-a346-725e35aa551c.gif"></article>]]></description>
+            <link>https://thegrid.ai/cdintelligencemedia/1046535b-cf9b-4a6a-89b4-d318452e10b6/index.html</link>
+            <guid isPermaLink="false">1046535b-cf9b-4a6a-89b4-d318452e10b6</guid>
+            <pubDate>Mon, 28 Mar 2016 22:57:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WELCOME]]></title>
             <description><![CDATA[<article><h1>WELCOME</h1><p>CD INTELLIGENCE MEDIA INC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3383680263129525a337039e83282a545315605a.gif"></article>]]></description>
-            <link>https://thegrid.ai/cdmediashop/welcome/index.html</link>
+            <link>https://thegrid.ai/cdintelligencemedia/welcome/index.html</link>
             <guid isPermaLink="false">c5c11cdb-2280-4f59-9f23-8018a8663ec9</guid>
             <pubDate>Mon, 28 Mar 2016 22:48:10 GMT</pubDate>
         </item>
