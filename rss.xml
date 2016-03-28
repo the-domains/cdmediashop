@@ -4,7 +4,7 @@
         <description><![CDATA[CD Intelligence Media << enjoy the ride >>]]></description>
         <link>https://thegrid.ai/cdmediashop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 22:42:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cdmediashop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/cdmediashop/welcome/index.html</link>
             <guid isPermaLink="false">c5c11cdb-2280-4f59-9f23-8018a8663ec9</guid>
             <pubDate>Mon, 28 Mar 2016 22:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c5bd6d3-d94c-41a9-ab51-2de8cf3100a6.png">]]></description>
-            <link>https://thegrid.ai/cdmediashop/digital-media-strategist/index.html</link>
-            <guid isPermaLink="false">d5341029-f84c-4715-963a-38346ac8c2ed</guid>
-            <pubDate>Mon, 28 Mar 2016 22:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
