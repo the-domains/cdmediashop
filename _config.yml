@@ -1,7 +1,7 @@
 name: cdintelligencemedia
 favicon: null
 layout_spectrum: 0.24306
-typography_spectrum: 0.8409
+typography_spectrum: 0.58072
 title: 'CD Intelligence Media << enjoy the ride >>'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#202020'
-    - '#4d4d4d'
-    - '#d3d3d3'
-    - '#a4a4a4'
-    - '#4edf00'
+    - '#262469'
+    - '#e4e5e6'
+    - '#95979a'
+    - '#e41e25'
+    - '#f8971d'
   brandStrength: 0.5
   lightness: 0.875
-  saturation: 0.10733501426875591
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
