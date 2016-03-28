@@ -1,7 +1,7 @@
 name: cdmediashop
 favicon: null
-layout_spectrum: 0.8813066405709833
-typography_spectrum: 0.07625454128719866
+layout_spectrum: 0.00544
+typography_spectrum: 0.8409
 title: CD Intelligence Media
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.9969495905097574
   lightness: 0.9977867319248617
   saturation: 0.10733501426875591
-  rhythmicContrast: 0.44022100209258497
+  rhythmicContrast: 0.75
 purpose: []
