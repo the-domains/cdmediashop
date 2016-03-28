@@ -2,6 +2,7 @@ name: cdmediashop
 favicon: null
 layout_spectrum: 0.8813066405709833
 typography_spectrum: 0.07625454128719866
+title: CD Intelligence Media
 cta:
   domain: null
   bucket: null
