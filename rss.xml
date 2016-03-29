@@ -4,8 +4,15 @@
         <description><![CDATA[CD Intelligence Media << enjoy the ride >>]]></description>
         <link>https://thegrid.ai/cdintelligencemedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 00:11:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cdintelligencemedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME</h1><p>CD INTELLIGENCE MEDIA INC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3383680263129525a337039e83282a545315605a.gif"></article>]]></description>
+            <link>https://thegrid.ai/cdintelligencemedia/welcome/index.html</link>
+            <guid isPermaLink="false">c5c11cdb-2280-4f59-9f23-8018a8663ec9</guid>
+            <pubDate>Tue, 29 Mar 2016 00:11:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf67e1a-25a1-40d5-90a9-24476c60b4de.gif">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/cdintelligencemedia/1046535b-cf9b-4a6a-89b4-d318452e10b6/index.html</link>
             <guid isPermaLink="false">1046535b-cf9b-4a6a-89b4-d318452e10b6</guid>
             <pubDate>Mon, 28 Mar 2016 22:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME]]></title>
-            <description><![CDATA[<article><h1>WELCOME</h1><p>CD INTELLIGENCE MEDIA INC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3383680263129525a337039e83282a545315605a.gif"></article>]]></description>
-            <link>https://thegrid.ai/cdintelligencemedia/welcome/index.html</link>
-            <guid isPermaLink="false">c5c11cdb-2280-4f59-9f23-8018a8663ec9</guid>
-            <pubDate>Mon, 28 Mar 2016 22:48:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
